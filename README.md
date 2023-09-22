@@ -64,8 +64,8 @@ POST /engima
   "Volume": ""
 }
 
-##Author
-This script was created by [Me].
+## Author
+This script was created by Me.
 
 Feel free to modify and use this script for various chemical calculations and to access chemical element data from the SQLite database.
 
